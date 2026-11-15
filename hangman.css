@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#hangmanImage {
+    width: 122px;
+    height: 168px;
+}
+
+#clue {
+    font-family: monospace;
+    font-size: 2em;
+    padding: 1em;
+}
+
+#guessarea input {
+    font-size: 1.2em;
+    text-align: center;
+    width: 2em;
+}
+
+#newgamearea {
+    margin-top: 2em;
+}
+
+#guesses {
+    margin-top: 1.5em;
+    white-space: pre-line;
+    line-height: 1.6;
+}
